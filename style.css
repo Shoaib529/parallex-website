@@ -66,3 +66,19 @@ header {
   width: 100%;
   pointer-events: none;
 }
+
+.sec {
+  position: relative;
+  background-color: #003329;
+  padding: 100px;
+}
+.sec h2 {
+  color: #f9f9f9;
+  margin-bottom: 10px;
+}
+
+.sec p {
+  font-size: 1m;
+  color: #f9f9f9;
+  font-weight: 300;
+}
